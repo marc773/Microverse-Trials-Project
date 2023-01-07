@@ -1,4 +1,7 @@
+<<<<<<< HEAD
+=======
 # Microverse-Trials-Project
+>>>>>>> 40a0c4a21f2f6415d481eb2fcab89081a1bf6526
 Build a Product Landing Page
 Objective: Build an app that is functionally similar to https://product-landing-page.freecodecamp.rocks
 
@@ -21,4 +24,8 @@ Your product landing page should have at least one media query
 Your product landing page should utilize CSS flexbox at least once
 Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
 
+<<<<<<< HEAD
 Note: Be sure to add <link rel="stylesheet" href="styles.css"> in your HTML to link your stylesheet and apply your CSS
+=======
+Note: Be sure to add <link rel="stylesheet" href="styles.css"> in your HTML to link your stylesheet and apply your CSS
+>>>>>>> 40a0c4a21f2f6415d481eb2fcab89081a1bf6526
