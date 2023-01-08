@@ -1,0 +1,13 @@
+#container{
+    background-color: aqua; 
+    display: flex;
+}
+#nav-bar{
+    position: ;
+    padding: 0px;
+    margin: 0px;
+}
+.nav-link{
+    font-size: 20px;
+    
+}
